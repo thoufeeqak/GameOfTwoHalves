@@ -1,1 +1,2 @@
 # GameOfTwoHalves
+Project involved predicting full time scores for English Premier League football games based on various prediction from previous years statistics. Analysis of key parameters affecting home team and away team wins based on data collected from previous years. Training of data using different models like Logistic Regression, Decision trees and neural network and optimizing the accuracy on testing set (Current season 2015-2016) using SPSS modeler 17.0.  
